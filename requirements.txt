@@ -22,7 +22,7 @@ inflection==0.5.1
 jsonpointer==2.1
 munkres==1.1.4
 mysql-connector-python==8.2.0
-numpy==1.26.3
+numpy<1.25.0
 openpyxl==3.0.10
 pandas==2.1.4
 pandas-dq==1.29
