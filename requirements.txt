@@ -22,7 +22,9 @@ inflection==0.5.1
 jsonpointer==2.1
 munkres==1.1.4
 mysql-connector-python==8.2.0
+numpy==1.26.3
 openpyxl==3.0.10
+pandas==2.1.4
 pandas-dq==1.29
 patsy==0.5.3
 pep8==1.7.1
@@ -39,6 +41,7 @@ PyQt5==5.15.10
 PyQtWebEngine==5.15.6
 python-lsp-jsonrpc==1.0.0
 smmap==5.0.1
+scikit-learn==1.2.2
 streamlit==1.31.0
 textblob==0.17.1
 tzlocal==5.2
@@ -47,6 +50,3 @@ webencodings==0.5.1
 wordcloud==1.9.3
 xgboost==1.6.2
 xlrd==2.0.1
-scikit-learn==1.2.2
-pandas==2.1.4
-numpy==1.26.3
